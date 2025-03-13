@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Vu004/Vu004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vu004&theme=darkhub&row=1&no-frame=true" alt="GitHub Trophies" />
+</p>
