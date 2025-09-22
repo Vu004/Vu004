@@ -6,6 +6,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vu004&theme=darkhub&row=1&no-frame=true" alt="GitHub Trophies" />
-</p>
